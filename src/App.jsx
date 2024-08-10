@@ -1,10 +1,10 @@
-
+import './output.css'
 
 function App() {
 
 
   return (
-    <div>Demo Api xxxxxxx </div>
+    <div className="bg-slate-600 items-center">Demo Api xxxxxxx </div>
   )
 }
 

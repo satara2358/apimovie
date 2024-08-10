@@ -1,0 +1,5 @@
+-> npm create vite
+npm i
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
